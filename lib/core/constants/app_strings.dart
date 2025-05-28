@@ -35,4 +35,6 @@ class AppStrings {
   static const String fullName = "Full Name";
   static const String hintName = "Enter your name";
   static const String haveAccount = "Already have an account?";
+  static const String confirmPassword = "Confirm Password";
+  static const String hintConfirmPassword = "Enter your confirm password";
 }
